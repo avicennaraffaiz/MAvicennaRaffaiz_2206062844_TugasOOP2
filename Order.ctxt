@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Order
+comment1.params=items\ customer\ orderDate
+comment1.target=Order(java.util.List,\ Customer,\ java.util.Date)
+comment2.params=
+comment2.target=java.util.List\ getItems()
+comment3.params=
+comment3.target=Customer\ getCustomer()
+comment4.params=
+comment4.target=java.util.Date\ getOrderDate()
+comment5.params=
+comment5.target=boolean\ isCompleted()
+comment6.params=
+comment6.target=void\ completeOrder()
+numComments=7
